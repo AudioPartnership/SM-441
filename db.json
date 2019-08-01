@@ -4,8 +4,15 @@
       "title": "Issue #000",
       "subtitle": "Introducing Liner_Notes, from Cambridge Audio.",
       "blurb": "Introducing Liner_Notes, from Cambridge Audio. A new project in celebration of the people, the ideas and the technology shaping music today.",
-      "thumbnail_url": "/sites/default/files/styles/max_width_800/public/posts/featured-image/Intro%20Image%202_0.png?itok=FEwUTq_u",
+      "thumbnail_url": "https://www.liner-not.es/sites/default/files/styles/max_width_800/public/posts/featured-image/Intro%20Image%202_0.png?itok=FEwUTq_u",
       "article_url": "https://www.liner-not.es/introducing-linernotes"
+    },
+    {
+      "title": "Issue #001",
+      "subtitle": "We sit down with rising star, Jerry Williams.",
+      "blurb": "The sound it made literally makes my belly flip... it was so good we tried to put it on every song. But that was a bit too much in the end",
+      "thumbnail_url": "https://www.liner-not.es/sites/default/files/styles/max_width_800/public/posts/featured-image/Jerry%20Williams%20-%20Main%20Image.jpg?itok=p3ih-vUZ",
+      "article_url": "https://www.liner-not.es/jerry-williams"
     }
   ]
 }
