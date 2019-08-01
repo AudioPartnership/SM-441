@@ -28,5 +28,35 @@
       "thumbnail_url": "https://www.liner-not.es/sites/default/files/styles/max_width_800/public/posts/featured-image/Screen%20Shot%202018-08-14%20at%2016.04.17_0.png?itok=sbJVVEzw",
       "article_url": "https://www.liner-not.es/rattlesnake"
     }
+  ],
+  "stories": [
+    {
+      "title": "The 2018 year in review",
+      "subtitle": "01.04.19",
+      "blurb": "",
+      "thumbnail_url": "https://cambridgeaudio.com/sites/default/files/styles/story/public/blog/tile/Tile.jpg?itok=fCw5o7HL",
+      "article_url": "https://cambridgeaudio.com/gbr/en/blog/2018-year-review"
+    },
+    {
+      "title": "Cambridge Audio's best albums of 2018",
+      "subtitle": "12.17.18",
+      "blurb": "",
+      "thumbnail_url": "https://cambridgeaudio.com/sites/default/files/styles/story/public/blog/tile/CA_Albums_of_2018_tile.jpg?itok=dPcrotCd",
+      "article_url": "https://cambridgeaudio.com/gbr/en/blog/cambridge-audios-best-albums-2018"
+    },
+    {
+      "title": "Twin toroidal transfomers - key technologies in the edge series",
+      "subtitle": "15.05.18",
+      "blurb": "",
+      "thumbnail_url": "https://cambridgeaudio.com/sites/default/files/styles/story/public/blog/tile/CA_Edge_tech_banners6.jpg?itok=aQJIzFhy",
+      "article_url": "https://cambridgeaudio.com/gbr/en/blog/twin-toroidal-transformers-key-technologies-edge-series-0"
+    },
+    {
+      "title": "Digital input board - key technologies in the edge series",
+      "subtitle": "12.05.18",
+      "blurb": "We talk to Rattlesnake about their influencers, recording their first EP and how they go about writing new music.",
+      "thumbnail_url": "https://cambridgeaudio.com/sites/default/files/styles/story/public/blog/tile/CA_Edge_tech_banners12.jpg?itok=e0qcTugW",
+      "article_url": "https://cambridgeaudio.com/gbr/en/blog/digital-input-board-key-technologies-edge-series-0"
+    }
   ]
 }
