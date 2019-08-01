@@ -2,24 +2,31 @@
   "linernotes": [
     {
       "title": "Issue #000",
-      "subtitle": "Introducing Liner_Notes, from Cambridge Audio.",
+      "subtitle": "Liner_Notes",
       "blurb": "Introducing Liner_Notes, from Cambridge Audio. A new project in celebration of the people, the ideas and the technology shaping music today.",
       "thumbnail_url": "https://www.liner-not.es/sites/default/files/styles/max_width_800/public/posts/featured-image/Intro%20Image%202_0.png?itok=FEwUTq_u",
       "article_url": "https://www.liner-not.es/introducing-linernotes"
     },
     {
       "title": "Issue #001",
-      "subtitle": "We sit down with rising star, Jerry Williams.",
+      "subtitle": "Jerry Williams Singer, Songwriter",
       "blurb": "The sound it made literally makes my belly flip... it was so good we tried to put it on every song. But that was a bit too much in the end",
       "thumbnail_url": "https://www.liner-not.es/sites/default/files/styles/max_width_800/public/posts/featured-image/Jerry%20Williams%20-%20Main%20Image.jpg?itok=p3ih-vUZ",
       "article_url": "https://www.liner-not.es/jerry-williams"
     },
     {
       "title": "Issue #002",
-      "subtitle": "In the first entry in our Sound Professionals series, we speak to Richard Wilkinson.",
+      "subtitle": "Richard Wilkinson Studio Engineer, Mixer and Producer",
       "blurb": "In the first entry in our Sound Professionals series, we speak to Richard Wilkinson, a man whose technical expertise and willingness to experiment has helped define British pop music. We discuss his views on the ‘loudness wars’ and his projects with Adele, Spice Girls and Hot Chip.",
       "thumbnail_url": "https://www.liner-not.es/sites/default/files/styles/max_width_800/public/posts/featured-image/Richard_wilkinson_01_0.jpg?itok=iKmJEkuj",
       "article_url": "https://www.liner-not.es/richard-wilkinson"
+    },
+    {
+      "title": "Issue #003",
+      "subtitle": "Rattlesnake 4-piece alt-rock band",
+      "blurb": "We talk to Rattlesnake about their influencers, recording their first EP and how they go about writing new music.",
+      "thumbnail_url": "https://www.liner-not.es/sites/default/files/styles/max_width_800/public/posts/featured-image/Screen%20Shot%202018-08-14%20at%2016.04.17_0.png?itok=sbJVVEzw",
+      "article_url": "https://www.liner-not.es/rattlesnake"
     }
   ]
 }
