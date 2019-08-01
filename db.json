@@ -1,9 +1,11 @@
-[
+{
+  "linernotes": [
     {
-        "title": "Issue #000",
-        "subtitle": "Introducing Liner_Notes, from Cambridge Audio.",
-        "blurb": "Introducing Liner_Notes, from Cambridge Audio. A new project in celebration of the people, the ideas and the technology shaping music today.",
-        "thumbnail_url": "/sites/default/files/styles/max_width_800/public/posts/featured-image/Intro%20Image%202_0.png?itok=FEwUTq_u",
-        "article_url": "https://www.liner-not.es/introducing-linernotes"
+      "title": "Issue #000",
+      "subtitle": "Introducing Liner_Notes, from Cambridge Audio.",
+      "blurb": "Introducing Liner_Notes, from Cambridge Audio. A new project in celebration of the people, the ideas and the technology shaping music today.",
+      "thumbnail_url": "/sites/default/files/styles/max_width_800/public/posts/featured-image/Intro%20Image%202_0.png?itok=FEwUTq_u",
+      "article_url": "https://www.liner-not.es/introducing-linernotes"
     }
-]
+  ]
+}
